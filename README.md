@@ -1,5 +1,6 @@
 # Semantic Segmentation on CamVid Dataset using U-Net.
 
+## Description
 This repository is made in attempt to implement the [U-Net paper](https://arxiv.org/abs/1505.04597). We implemented the convolutional neural network architecture given in the paper. There are [32 classes](http://mi.eng.cam.ac.uk/research/projects/VideoRec/CamVid/#ClassLabels) in total.
 
 ![alt text](https://camo.githubusercontent.com/f4175e0e30153e03c7ac42a1779302d990b918d0/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313030302f312a77626155516b597a5268766d6437496a4b4a6a6a43672e676966)
